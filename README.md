@@ -8,3 +8,6 @@ Directory structure:
 
 Additional notebooks available are available at the fork of Team Prigge:
 https://github.com/TeamPrigge/lindoscope-2021
+
+Offical course website:
+https://www.lindoscope.com/
